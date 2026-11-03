@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "project_id": "falcon-distribution-trial",
-  "version": "0.1.0-alpha.1",
+  "version": "0.1.0-alpha.2",
   "status": "development",
   "package": {
     "id": "falcon-distribution-trial",
